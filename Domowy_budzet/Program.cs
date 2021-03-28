@@ -1,4 +1,8 @@
-﻿using System;
+﻿using Domowy_budzet.Classes;
+using Domowy_budzet.Classes.BuisnessLogic;
+using System;
+using System.Text;
+using System.IO;
 
 namespace Domowy_budzet
 {
@@ -6,7 +10,8 @@ namespace Domowy_budzet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+          
         }
     }
 }
