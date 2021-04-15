@@ -1,5 +1,5 @@
 ﻿using Domowy_budzet.Classes;
-using Domowy_budzet.Classes.BuisnessLogic;
+using Domowy_budzet.Classes.BusinessLogic;
 using System;
 using System.Text;
 using System.IO;
